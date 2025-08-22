@@ -1,15 +1,23 @@
-# DBOGLOBAL
- DBOG Client & Server Emulator
+# CLOSE DBO PROJECT
+ Under Development by **Core Interactive Games - (CIGS)**
+A Small Scale Game Development Studio. (very Small Scale)
+we had to switch to discord because our own messaging app got dropped and shutdown soo many links were lost.... sigh...
 
-## 3rd Party
-- MySQL 5.7.18 - Required for Server
-- Xtreme ToolkitPro v15.2.1 - Required for Tools
-- GFx SDK 3.3 - Required for Client
+## CIGS:
+We're a group of no lifers dedicated to DBO Development we've been working on a more 3D Version of DBO since 2018 
+however the project was too big and lenghty so because of that we lost alot of devs and had to drop the project, 
+so as the Head & Founder we decided to go with DBO 2.0 the Next Best thing.
 
-## Requirements
-- DirectX9 SDK
-- Visual Studio 2019
+## Goals
+- Graphical Advancements
+- Performance Optimizing
+- Post Level Cap Content & More...
+
+## Next Big Patch (Editing After March 31st)
+- v2.80.0 - March 31, 2026
 
 
 # Info
- All requirements and 3rd Party can be found in our website https://forum.dboglobal.to
+This is Called ClosedDBO for this time being, Because there will be no Commits unless its a batch.
+right now its at v2.100, the next mass update will taken to v2.80.0.
+
